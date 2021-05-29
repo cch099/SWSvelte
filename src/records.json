@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "description":"Son of Anakin Skywalker",
+        "thumbnail": "https://i.imgur.com/M5U42nm.png"
+    },
+    {
+        "name": "Darth Vader",
+        "description":"Very powerful sith lord",
+        "thumbnail": "https://i.imgur.com/4lqZj32.png"
+    },
+    {
+        "name": "Yoda",
+        "description":"Jedi master",
+        "thumbnail": "https://i.imgur.com/HOs6Vqo.png"
+    },
+    {
+        "name": "Darth Maul",
+        "description":"Apprentice to Darth Sidious",
+        "thumbnail": "https://i.imgur.com/44RkckO.png"
+    },
+    {
+        "name": "Boba Fett",
+        "description":"Mandalorian. Bounty Hunter. Son of Jango Fett. ",
+        "thumbnail": "https://i.imgur.com/oZkmOxc.png"
+    }
+]
